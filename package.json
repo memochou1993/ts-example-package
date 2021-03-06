@@ -1,5 +1,5 @@
 {
-  "name": "ts-example-package",
+  "name": "ts-package-example",
   "version": "1.0.0",
   "description": "",
   "main": "dist/index.js",
@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/memochou1993/ts-example-package.git"
+    "url": "git+https://github.com/memochou1993/ts-package-example.git"
   },
   "author": "Memo Chou",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/memochou1993/ts-example-package/issues"
+    "url": "https://github.com/memochou1993/ts-package-example/issues"
   },
-  "homepage": "https://github.com/memochou1993/ts-example-package#readme",
+  "homepage": "https://github.com/memochou1993/ts-package-example#readme",
   "devDependencies": {
     "@types/jest": "^26.0.20",
     "jest": "^26.6.3",
